@@ -1,4 +1,4 @@
-# softgames
+# demo for softgames
 
 Preview link: https://oliseviche.github.io/softgames/dist/
 
