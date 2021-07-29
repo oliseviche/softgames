@@ -30,7 +30,7 @@ export const config = {
     "blendMode": "normal",
     "frequency": 0.001,
     "emitterLifetime": 0,
-    "maxParticles": 200,
+    "maxParticles": 10,
     "pos": {
         "x": 0,
         "y": 0
