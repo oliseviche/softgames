@@ -1,3 +1,6 @@
+// Main workhorse
+// Initialize PIXI and creates helper classes for orchestrating tasks, resources, scenes
+
 import * as PIXI from 'pixi.js'
 import { SceneDirector } from './scene-director';
 import { TaskRunner } from "./task-runner";

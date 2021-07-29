@@ -1,3 +1,5 @@
+// A naive implementation of double linked list
+
 export interface ILinkedListItem<T> {
     next: ILinkedListItem<T> | null;
     prev: ILinkedListItem<T> | null;

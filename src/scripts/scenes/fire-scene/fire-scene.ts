@@ -1,3 +1,5 @@
+// This scene is responoble for presenting the fire particle effect
+
 import * as PIXI from 'pixi.js';
 import * as particles from 'pixi-particles'
 import { Engine } from "../../core/engine";

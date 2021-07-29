@@ -1,3 +1,6 @@
+// Minor helper function resized here
+// Not much of them thankfully
+
 export function getRandomValue(min:number, max:number): number {
     min = Math.ceil(min);
     max = Math.floor(max);

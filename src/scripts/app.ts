@@ -1,3 +1,7 @@
+// Main execution module
+// Initializes the engine and starts the game loop
+// Do not implement separate methods for time fixed update and floating render methods
+
 import { Engine } from './core/engine';
 import { MenuScene } from './scenes/menu-scene/menu-scene';
 import { FPSMeter } from './utils';

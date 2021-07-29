@@ -1,3 +1,5 @@
+// This scene is responsible for providing presentation for cards stack
+
 import * as PIXI from 'pixi.js';
 import { Engine } from "../../core/engine";
 import { ITask, TaskRunner } from "../../core/task-runner";

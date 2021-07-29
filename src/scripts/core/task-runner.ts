@@ -1,3 +1,7 @@
+// Any async action is represented by a Task object
+// Task runner is continously call update callback on each task
+// in which developer implements his application logic
+
 import { ILinkedListItem, QueuedList } from "./queued-list";
 
 export interface ITask {

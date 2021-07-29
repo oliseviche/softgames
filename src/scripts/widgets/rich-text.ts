@@ -1,3 +1,6 @@
+// Wrapper component for rendering sombined texts and images together
+// Holds creation and application logic for calculating geometry
+
 import * as PIXI from 'pixi.js'
 
 const DEFAULT_FONT_SIZE = 16;

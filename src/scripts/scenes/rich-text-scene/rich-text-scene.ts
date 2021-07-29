@@ -1,3 +1,5 @@
+// This scene is responsible for presenting capabilities of RichText widget
+
 import * as PIXI from 'pixi.js';
 import { Engine } from "../../core/engine";
 import { RichText } from '../../widgets/rich-text';

@@ -1,3 +1,6 @@
+// Scene director is responsible for correct scene managment,
+// theirs 'in' and 'out' lifecycles 
+
 import { Engine } from "./engine";
 import { BaseScene, SceneConstructor } from "../scenes/scene";
 

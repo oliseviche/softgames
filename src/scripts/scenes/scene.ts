@@ -1,5 +1,9 @@
-import { Engine } from "../core/engine";
+// The second main workhorse after engine.
+// Incapsulates application logic for scenery. Provides common API for concrete
+// scenese like helper UI components and cleanup routines
+
 import * as PIXI from 'pixi.js';
+import { Engine } from "../core/engine";
 import { ITask } from "../core/task-runner";
 
 const backButtonStyle = new PIXI.TextStyle({

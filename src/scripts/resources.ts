@@ -1,3 +1,5 @@
+// Importing image resoures here in order to allow webpack to include them in distribution
+
 export const bg = require('../images/bg.jpg');
 export const emojiesUrl = require('../images/emojis.png');
 export const cardsUrl: string[] = [

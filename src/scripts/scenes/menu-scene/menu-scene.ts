@@ -1,3 +1,5 @@
+// Menu scene is responible for presenting the main menu of the application
+
 import * as PIXI from 'pixi.js';
 import { Engine } from "../../core/engine";
 import { CardsScene } from '../card-scene/cards-scene';
